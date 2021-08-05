@@ -1,18 +1,18 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-nav: teaching
+title: Teaching
+nav: Teaching
 description: classes, workshops, and teaching material
 ---
 
-<h3 class="mt-4">Carnegie Mellon University</h3>
+<h3 class="mt-4">INRIA, IRISA, Univ Rennes 1</h3>
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Introduction to Machine Learning</h5>
+        <h5 class="font-weight-bold">Artificial Intelligence - Deep Learning</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle"  href="https://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/" target="_blank">
@@ -20,12 +20,12 @@ description: classes, workshops, and teaching material
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2018: Teaching Assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2021: Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Graduate-level introduction to machine learning course for masters and PhD students, taught by <a href="https://www.cs.cmu.edu/~pradeepr/" target="_blank">Prof. Pradeep Ravikumar</a> and  <a href="https://www.cs.cmu.edu/~mmv/" target="_blank">Prof. Manuela Veloso</a>.</li>
-      <li class="list-group-item">○ I mentored groups of students working on class projects, held recitations, created and graded homeworks and exams.</li>
-      <li class="list-group-item">○ I was awarded a Machine Learning Department <a href="https://www.ml.cmu.edu/news/news-archive/2018/may/machine-learning-ta-awards-2018.html" target="_blank">Teaching Assistant Award</a>.</li>
-      <li class="list-group-item">○ Course materials can be found <a href="http://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/" target="_blank">here</a>.</li>
+    <li class="list-group-item">○ Course taught by <a href="http://people.irisa.fr/Zoltan.Miklos/" target="_blank">Dr. Zoltan Mikols</a>.</li>
+    <li class="list-group-item">○ The objective is to get acquainted with Deep Learning library - Tensorflow and Keras. In the class, the students will explore fully connected neural networks, CNN, RNN and LSTM variants. The idea is to build a smaller network first and then do the incremental change in the model. The students are required to observe the change in the model accuracy by varying optimisers (vanilla sgd (learning rates), adagrad, momemtum, adam), Loss functions, different regularisers (L1, L2, drop-out, Elastic net) to tackle overfitting, word embedding techniques, etc. The problems are based on image Classification, text preprocessing and sentiment analysis.</li>
+
+    <li class="list-group-item">○ Dataset: CIFAR 10, IMDB, Ohsumed.</li>
     </ul>
   </div>
 </div>
@@ -34,7 +34,7 @@ description: classes, workshops, and teaching material
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Topics in Deep Learning</h5>
+        <h5 class="font-weight-bold">Data Mining Course</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
@@ -42,27 +42,45 @@ description: classes, workshops, and teaching material
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2017: Teaching Assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2019, 2018: Travaux Pratiques</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Graduate level introduction to machine learning class for masters and PhD students taught by  <a href="https://www.cs.cmu.edu/~rsalakhu/" target="_blank">Prof. Ruslan Salakhutdinov</a>.</li>
-      <li class="list-group-item">○ I mentored groups of students working on class projects, graded homeworks and exams.</li>
-      <li class="list-group-item">○ Course materials can be found <a href="http://www.cs.cmu.edu/~rsalakhu/10707/" target="_blank">here</a>.</li>
+      <li class="list-group-item">○ Course taught by <a href="http://people.irisa.fr/Zoltan.Miklos/" target="_blank">Prof. Zoltan Mikols</a>.</li>
+      <li class="list-group-item">○ The objective is to learn the machine learning pipeline for data mining.The practical work will be given in Python and will explore standard machine learning techniques (Exploratory Data Analysis, Missing Values, Build Model, Cross-validation, Tune Parameters) that are widely used in academia and industry.</li>
+      <li class="list-group-item">○ Dataset: Students will explore Titanic [Thanks to Kaggle] and Census Dataset [Thanks to UCI Machine learning repository and several contributors], build a model and tune the parameters to improve predictions.</li>
     </ul>
   </div>
 </div>
 
-<h3 class="mt-4">Politehnica University of Timisoara</h3>
+<h3 class="mt-4">Indian Institute of Technology, Patna</h3>
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Competitive Programming Seminar</h5>
+        <h5 class="font-weight-bold">Shell programming and C programming language</h5>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2013, Spring 2014: Lecturer and course co-organizer</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2014: Teaching Assistant</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ I co-organized a <a href="https://www.meetup.com/Cerc-algoritmica-TM" target="_blank">competitive programming seminar</a> for university and high-school students interested to train for algorithmic competitions (e.g. ACM-ICPC, informatics olympiad).</li>
-      <li class="list-group-item">○ I taught algorithms and data structures used in competitive programming, designed and solved practice problems and internal competitions.</li>
+      <li class="list-group-item">○ Course taught by <a href="http://www.iitp.ac.in/~halder//" target="_blank"> Prof. Raju Halder</a>.</li>
+      <li class="list-group-item">○ Course taught to under graduate students</li>
+      <li class="list-group-item">○ The objective of the course was to have the basic understanding of shell programming and C language.</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Java programming language</h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2015: Teaching Assistant</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ Course taught by <a href="http://www.iitg.ac.in/ashok/in" target="_blank">Prof. Ashok Singh Sairam</a></li>
+      <li class="list-group-item">○ Course taught to under graduate third year students.</li>
+      <li class="list-group-item">○ The objective of the course was to teach JAVA programming exercises.</li>
     </ul>
   </div>
 </div>

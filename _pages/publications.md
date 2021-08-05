@@ -1,10 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-nav: publications
-description: <nobr><em>*</em></nobr> denotes equal contribution and joint lead authorship.
-years: [2021, 2020, 2019, 2017, 2015]
+title: Publications
+nav: Publications
+years: [2020, 2019, 2018, 2017, 2016, 2015]
 ---
 
 <br/>

@@ -3,13 +3,13 @@ layout: page
 permalink: /
 title: about
 nav: about
+<!-- description: This is the personal website of Rituraj Singh -->
 
-<!--description: <a href="https://ai.google/" target="_blank">Google AI</a> -->
-address: <a href="https://www.google.com/maps/place/Googleplex/@37.4220656,-122.0862837,17z/data=!3m1!4b1!4m5!3m4!1s0x808fba02425dad8f:0x6c296c66619367e0!8m2!3d37.4220656!4d-122.0840897" class="page-description" target="_blank">Googleplex, Mountain View, California, USA </a>
+---
 ---
 
 <div class="col p-0 pt-4 pb-4">
-  <h1 class="pb-3 title text-left font-weight-bold">Otilia Stretcu</h1>
+  <h1 class="pb-3 title text-left font-weight-bold">Rituraj Singh</h1>
   <h6 class="m-0 mb-2" style="font-size: 0.83em;">{{ page.description }}</h6>
   {% if page.address %}
       <h6 class="m-0 mb-2" style="font-size: 0.83em;">{{ page.address }}</h6>
@@ -25,25 +25,22 @@ address: <a href="https://www.google.com/maps/place/Googleplex/@37.4220656,-122.
         </div>
 
         <p>
-            I am a Research Scientist at <a href="https://ai.google/" target="_blank">Google AI</a> in Mountain View, California, working on machine learning research.
+            I was a PhD student at <a href="https://www.inria.fr/en" target="_blank">INRIA</a>, <a href="http://www.irisa.fr/en" target="_blank">IRISA</a> research center at Rennes, France. My thesis is entiled as "Data Centric Workflows for Crowdsourcing Applications", co-advised by <a href="http://people.rennes.inria.fr/Loic.Helouet/" target="_blank"> Dr. Loic Helouet</a> and <a href="http://people.irisa.fr/Zoltan.Miklos/" target="_blank">Dr. Zoltan Mikols</a>.
+            I was a member of <a href="https://www-druid.irisa.fr/" target="_blank">DRUID</a> and <a href="http://www.irisa.fr/sumo/" target="_blank">SUMO</a> team.
         </p>
-        
+
         <p>
-            Previously, I was a PhD student in the <a href="http://www.ml.cmu.edu/" target="_blank">Machine Learning Department</a> at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, co-advised by <a href="http://www.cs.cmu.edu/~tom/" target="_blank">Tom Mitchell</a> and <a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank">Barnabàs Pòczos</a>.
-            My PhD research focused on developing algorithms for machine learning, mainly focused on semi-supervised learning, curriculum learning, multitask learning, and graph-based problems.
-            I am also passionate about applying machine learning methods in neuroscience, in order to study how the brain understands language and controls speech.
-            Previously, I did some research in Computer Vision, with the goal of detecting and tracking objects in videos.
+            My PhD research focus was on developing algorithms for crowdsourcing applications, to propose formal model for complex workflows for crowdsourcing and developing human-in-loop algorithms by applying probabilistic based techniques and latent variable models.
+            I am also passionate about applying machine learning methods in other doamains as healthcare, natural language processing, etc.
+            Previously, I did some work in anamoly detection on sensor data and on detection of diseases based on data obtained using wearables. My area of interest are Data Centric Systems and Workflows, Machine Learning, Crowdsourcing, Probabilistic Modelling of Systems and Data Mining.
         </p>
     </div>
 </div>
 
 <div class="col text-justify p-0">
-    <p>
-        Before I joined CMU, I graduated with an <a href="https://www.cst.cam.ac.uk/admissions/acs" target="_blank">M.Phil. in Advanced Computer Science</a>
-        from the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>, UK.
-        In my Master's thesis I used Machine Learning methods to detect and align chromosomes in microscope images,
-        advised by <a href="https://www.cl.cam.ac.uk/~pl219/" target="_blank">Pietro Lió</a>.
-    </p>
+<p>
+    Before I joined my PhD, I was working as a Researcher at <a href="https://www.tcs.com/research-and-innovation" target="_blank">Tata Consultancy Services (TCS) Research & Innovation Lab</a>, Kolkata, India. I worked on various data analytics problems, particularly related to healthcare and signals and applied machine learning techniques. I graduated from the Computer Science department of <a href="https://www.iitp.ac.in/index.php/en-us/" target="_blank">IIT Patna</a> in June, 2015. During my masters, I wrote my master thesis under supervision of <a href="http://www.iitg.ac.in/ashok/in" target="_blank">Dr. Ashok Singh Sairam</a> entitled "Push based User Selection in Crowdsensing".
+</p>
 </div>
 
 <!-- News -->
