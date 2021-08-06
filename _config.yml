@@ -2,7 +2,7 @@
 # Site Settings
 # -----------------------------------------------------------------------------
 
-name: Rituraj Singh
+title: Rituraj Singh
 email: riturajsingh.infotech@gmail.com
 
 # footer_text: >
@@ -10,7 +10,7 @@ email: riturajsingh.infotech@gmail.com
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 # last_updated: true
 
-url:  devrituraj # the base hostname & protocol for your site
+url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
