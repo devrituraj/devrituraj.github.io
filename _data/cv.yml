@@ -24,7 +24,7 @@
     location: France
     description:
     - 'co-advised by <a href="http://people.rennes.inria.fr/Loic.Helouet/" target="_blank"><b> Dr. Loïc Hélouët</b></a> and <a href="http://people.irisa.fr/Zoltan.Miklos/" target="_blank"><b>Dr. Zoltán Miklós</b></a>'
-    - 'Thesis: Data Centric Workflows for Crowdsourcing Applications'
+    - 'Thesis: <a href="https://hal.inria.fr/tel-03274867/document" target="_blank"><b> Data Centric Workflows for Crowdsourcing Applications</b></a>'
     - 'Thesis committee: Salima Benebernou, Farouk Toumani, Stefan Haar, Albert Benveniste, Marco Montali'
   - title: 'M.Tech in Computer Science - Indian Institute of Technology, Patna, India'
     year: 2013 - 2015
@@ -85,6 +85,9 @@
 - title: Honors and Awards
   type: table
   contents:
+  - year: Award
+    items:
+    - 'Best thesis prize at <a href="https://bda2021.inria.fr/" target="_blank">BDA2021</a>'
   - year: Fellowships
     items:
     - '<a href="http://headwork.gforge.inria.fr/index" target="_blank"><b> ANR Headwork Project.</b></a> (2018)'

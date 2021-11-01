@@ -25,7 +25,7 @@ nav: about
         </div>
 
         <p>
-            I was a PhD student at <a href="https://www.inria.fr/en" target="_blank">INRIA</a>, <a href="http://www.irisa.fr/en" target="_blank">IRISA</a> research center at Rennes, France. My thesis is entiled as "Data Centric Workflows for Crowdsourcing Applications", co-advised by <a href="http://people.rennes.inria.fr/Loic.Helouet/" target="_blank"> Dr. Loic Helouet</a> and <a href="http://people.irisa.fr/Zoltan.Miklos/" target="_blank">Dr. Zoltan Mikols</a>.
+            I was a PhD student at <a href="https://www.inria.fr/en" target="_blank">INRIA</a>, <a href="http://www.irisa.fr/en" target="_blank">IRISA</a> research center at Rennes, France. My thesis is entiled as <a href="https://hal.inria.fr/tel-03274867/document" target="_blank">Data Centric Workflows for Crowdsourcing Applications</a>, co-advised by <a href="http://people.rennes.inria.fr/Loic.Helouet/" target="_blank"> Dr. Loic Helouet</a> and <a href="http://people.irisa.fr/Zoltan.Miklos/" target="_blank">Dr. Zoltan Mikols</a>.
             I was a member of <a href="https://www-druid.irisa.fr/" target="_blank">DRUID</a> and <a href="http://www.irisa.fr/sumo/" target="_blank">SUMO</a> team.
         </p>
 
@@ -41,6 +41,10 @@ nav: about
 <p>
     Before I joined my PhD, I was working as a Researcher at <a href="https://www.tcs.com/research-and-innovation" target="_blank">Tata Consultancy Services (TCS) Research & Innovation Lab</a>, Kolkata, India. I worked on various data analytics problems, particularly related to healthcare and signals and applied machine learning techniques. I graduated from the Computer Science department of <a href="https://www.iitp.ac.in/index.php/en-us/" target="_blank">IIT Patna</a> in June, 2015. During my masters, I wrote my master thesis under supervision of <a href="http://www.iitg.ac.in/ashok/in" target="_blank">Dr. Ashok Singh Sairam</a> entitled "Push based User Selection in Crowdsensing".
 </p>
+</div>
+
+<div class="news mt-3 p-0">
+  <p> I am open to new opportunity, project and collaborations. Please feel free to <a href="mailto:riturajsingh.infotech@gmail.com">contact </a>me.</p>
 </div>
 
 <!-- News -->
@@ -60,3 +64,7 @@ nav: about
     </div>
   {% endfor %}
 </div>
+
+<div>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=mqs9S9H3Yd9_Yu2kTyS4Ip9AYnGhFjQJJu3D4Y8qWO8'></script>
+ </div>
