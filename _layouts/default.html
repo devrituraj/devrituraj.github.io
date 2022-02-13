@@ -5,7 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <title>{{ site.name }}{% if page.title and page.url != "/" %} | {{ page.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="Website of Rituraj Singh">
+  <meta name="keywords" content="Rituraj Singh, RiturajSingh, Rituraj Singh IIT Patna, Rituraj Singh TCS, Rituraj Singh TCS Research, Rituraj Singh INRIA, Rituraj Singh Researcher, Rituraj Singh Scientist,
+  Rituraj Singh Bihar, Rituraj Singh Maithili, Rituraj Singh PhD, Dr. Rituraj Singh">
+ <meta name="author" content="Rituraj Singh">
 
   <!-- Fonts and Icons -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons" />
@@ -20,11 +23,12 @@
   <!-- Header -->
   <nav id="navbar" class="navbar fixed-top navbar-expand-md grey lighten-5 z-depth-1 navbar-light">
     <div class="container-fluid p-0">
-      {% if page.title != "about" %}
+      {% if page.title == "rest" %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/"><span class="font-weight-bold">Rituraj</span> Singh</a>
       {% else %}
         <div class="row ml-1 ml-sm-0">
           <span class="contact-icon text-center" style="line-height: 1em;">
+            <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/"><span class="font-weight-bold">Rituraj</span> Singh</a>
             <a href="mailto:{{ site.email }}"><i class="fa fa-envelope-square gm-icon"></i></a>
             <a href="https://scholar.google.com/citations?userid={{ site.scholar_userid }}&user={{ site.scholar_userid }}" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar-square gs-icon"></i></a>
             <a href="https://www.github.com/{{ site.github_username }}" target="_blank" title="GitHub"><i class="fab fa-github-square gh-icon"></i></a>

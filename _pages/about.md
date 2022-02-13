@@ -25,26 +25,26 @@ nav: about
         </div>
 
         <p>
-            I was a PhD student at <a href="https://www.inria.fr/en" target="_blank">INRIA</a>, <a href="http://www.irisa.fr/en" target="_blank">IRISA</a> research center at Rennes, France. My thesis is entiled as <a href="https://hal.inria.fr/tel-03274867/document" target="_blank">Data Centric Workflows for Crowdsourcing Applications</a>, co-advised by <a href="http://people.rennes.inria.fr/Loic.Helouet/" target="_blank"> Dr. Loic Helouet</a> and <a href="http://people.irisa.fr/Zoltan.Miklos/" target="_blank">Dr. Zoltan Mikols</a>.
-            I was a member of <a href="https://www-druid.irisa.fr/" target="_blank">DRUID</a> and <a href="http://www.irisa.fr/sumo/" target="_blank">SUMO</a> team.
+        Hi! I welcome you to my webpage. Currently I am working as researcher at TCS Research. I am currently working on projects related to Natural Language Processing with an application of human resource and recruitment.
         </p>
 
         <p>
-            My PhD research focus was on developing algorithms for crowdsourcing applications, to propose formal model for complex workflows for crowdsourcing and developing human-in-loop algorithms by applying probabilistic based techniques and latent variable models.
-            I am also passionate about applying machine learning methods in other doamains as healthcare, natural language processing, etc.
-            Previously, I did some work in anamoly detection on sensor data and on detection of diseases based on data obtained using wearables. My area of interest are Data Centric Systems and Workflows, Machine Learning, Crowdsourcing, Probabilistic Modelling of Systems and Data Mining.
+            I pursued my PhD at <a href="https://www.inria.fr/en" target="_blank">INRIA</a>, <a href="http://www.irisa.fr/en" target="_blank">IRISA</a> research center at Rennes, France. My thesis is entiled as <a href="https://hal.inria.fr/tel-03274867/document" target="_blank">Data Centric Workflows for Crowdsourcing Applications</a>, co-advised by <a href="http://people.rennes.inria.fr/Loic.Helouet/" target="_blank"> Dr. Loic Helouet</a> and <a href="http://people.irisa.fr/Zoltan.Miklos/" target="_blank">Dr. Zoltan Mikols</a>. I was a member of <a href="https://www-druid.irisa.fr/" target="_blank">DRUID</a> and <a href="http://www.irisa.fr/sumo/" target="_blank">SUMO</a> team. My PhD research focus was on developing algorithms for crowdsourcing applications, to propose formal model for complex workflows for crowdsourcing and developing human-in-loop algorithms by applying probabilistic based techniques and latent variable models.
         </p>
     </div>
 </div>
 
 <div class="col text-justify p-0">
 <p>
-    Before I joined my PhD, I was working as a Researcher at <a href="https://www.tcs.com/research-and-innovation" target="_blank">Tata Consultancy Services (TCS) Research & Innovation Lab</a>, Kolkata, India. I worked on various data analytics problems, particularly related to healthcare and signals and applied machine learning techniques. I graduated from the Computer Science department of <a href="https://www.iitp.ac.in/index.php/en-us/" target="_blank">IIT Patna</a> in June, 2015. During my masters, I wrote my master thesis under supervision of <a href="http://www.iitg.ac.in/ashok/in" target="_blank">Dr. Ashok Singh Sairam</a> entitled "Push based User Selection in Crowdsensing".
+    Before I joined my PhD, I was working as a Researcher at <a href="https://www.tcs.com/research-and-innovation" target="_blank">Tata Consultancy Services (TCS) Research & Innovation Lab</a>, Kolkata, India. I worked on various problems (outlier detection, noise cleaning, disease classification) related to healthcare and sensor data. I graduated from the Computer Science department of <a href="https://www.iitp.ac.in/index.php/en-us/" target="_blank">IIT Patna</a> in June, 2015. During my masters, I wrote my master thesis under supervision of <a href="http://www.iitg.ac.in/ashok/in" target="_blank">Dr. Ashok Singh Sairam</a> entitled "Push based User Selection in Crowdsensing".
 </p>
+  <p>
+  My research areas are Natural Language Processing, Machine Learning, Bayesian Models, Human Centric AI, in broad Artificial Intelligence and Computer Science.
+  </p>
 </div>
 
 <div class="news mt-3 p-0">
-  <p> I am open to new opportunity, project and collaborations. Please feel free to <a href="mailto:riturajsingh.infotech@gmail.com">contact </a>me.</p>
+  <p><strong>I am open to new opportunity, project, teaching, and collaborations. Please feel free to <a href="mailto:riturajsingh.infotech@gmail.com">contact </a>me.</strong></p>
 </div>
 
 <!-- News -->
