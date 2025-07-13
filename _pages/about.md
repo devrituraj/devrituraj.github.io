@@ -25,7 +25,7 @@ nav: about
         </div>
 
         <p>
-        Hi! I welcome you to my webpage. Currently I am working as researcher at TCS Research. I am currently working on projects related to Natural Language Processing with an application of human resource and recruitment.
+        I am Senior Chief Engineer at Samsung Research, Bengaluru, India. I love to train large language and multimodal models with a focus on Generative AI with an applications in Reasoning Systems, Virtual Assistants and recently agentic based systems. I am fascinated by the potential of these models to understand and reason. I am deeply interested in making these advanced models more accessible by optimizing them to run on edge devices through techniques like distillation and pruning. With an industry experience of 6+ years, I am driven to push the boundaries of cutting-edge AI and deep learning technologies.
         </p>
 
         <p>

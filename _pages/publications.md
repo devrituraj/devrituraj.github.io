@@ -5,6 +5,7 @@ title: Publications
 nav: Publications
 years: [2021, 2020, 2019, 2018, 2017, 2016, 2015]
 ---
+This page is not getting updated. Please visit the <a href="https://scholar.google.co.in/citations?hl=en&user=Wj8zIVUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> profile.
 
 <br/>
 {% for y in page.years %}

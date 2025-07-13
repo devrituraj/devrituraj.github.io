@@ -11,14 +11,13 @@
 - title: Research Areas
   type: list
   contents:
-  - My research areas are Natural Language Processing, Machine Learning, Bayesian Models, Human Centric AI, in broad Artificial Intelligence and Computer Science.
-  - My PhD research focus was on developing algorithms for crowdsourcing applications, to propose formal model for complex workflows for crowdsourcing, develop algorithms by applying probabilistic based techniques and latent variable models.
-  - I have also worked on machine learning methods for sensor data, to detect outliers and studying the impact of anamoly on classification problems.
+  - I am passionate about training large language and multimodal models, with a strong focus on Generative AI and its applications in reasoning systems, virtual assistants, and more recently, agentic frameworks. I'm deeply fascinated by the ability of these models to understand, reason, and interact intelligently. My current interests also lie in making these powerful models more accessible and efficient by optimizing them for edge deployment through techniques such as distillation and pruning. With over 6 years of industry experience, I am driven to advance the frontiers of AI and deep learning. Broadly, my research spans Generative AI, multimodal models, and natural language processing, within the wider fields of Artificial Intelligence and Computer Science.
+  - During my PhD, I focused on problems related to crowdsourcing, primarily developing formal models for complex workflows in data collection and task execution, and applying probabilistic techniques and latent variable models to analyze and optimize them.
 - title: Education
   type: table
   contents:
   - title: 'Ph.D. - INRIA, IRISA, Univ Rennes 1.'
-    year: 2018 - 2022
+    year: 2018 - 2021
     location: France
     description:
     - 'co-advised by <a href="http://people.rennes.inria.fr/Loic.Helouet/" target="_blank"><b> Dr. Loïc Hélouët</b></a> and <a href="http://people.irisa.fr/Zoltan.Miklos/" target="_blank"><b>Dr. Zoltán Miklós</b></a>'
@@ -42,49 +41,23 @@
 - title: Work Experience
   type: table
   contents:
-  - title: 'Researcher, TCS Research, TRDDC Pune, India'
-    year: 2022 - Now
+  - title: 'Senior Chief Engineer, Samsung Research, Bengaluru, India'
+    year: Aug 2022 - Present
     location: India
     description:
-      - Project - Misinformation in Resume.
-      - Research Area - NLP, Deep Learning
-  - title: 'Researcher, TCS Research, Kolkata, India'
-    year: 2015 - 2017
+      - Project - Misinformation in Resume, Kowlegde graphs
+      - Research Area - Contrastive Learning, NLP
+  - title: 'Researcher, TCS Research, Kolkata, India
+    year: May 2015 - Dec 2017
     location: India
     description:
       - 'Research on applying machine learnig models on sensor and wearable healthcare data. The work led to several publications and patents.'
-      -  Research Area - Unsupervised Learning
+      -  Research Area - Unsupervised Learning, Machine Learning
   - title: 'Research Intern at TCS Research'
     year: Summer 2014
     location: India
     description:
       - 'Research project on anamoly detection in Smart meter sensor data'
-
-
-# - title: Other Research Experience
-#  type: table
-#  contents:
-#  - title: 'Machine Learning for understanding how the brain produces speech'
-#    year: 2017 - now
-#    location: USA
-#    description:
-#    - 'Carnegie Mellon University,  Pittsburgh, PA, USA'
-#    - 'Advised by <a href="http://www.cs.cmu.edu/~tom/" target="_blank"><b>Prof. Tom M. Mitchell</b></a> and <a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank"><b>Dr. Barnabàs Pòczos</b></a>'
-#    - 'Developing Machine Learning models that analyze neural activity signals (ECoG and Local Field Potentials) in order to understand how different properties of speech are represented in the brain, which can have major consequences for the treatment of many neurological disorders, such as Parkinson’s disease.'
-#  - title: 'Monte Carlo methods for question answering'
-#    year: 2018
-#    location: USA
-#    description:
-#    - 'Carnegie Mellon University,  Pittsburgh, PA, USA'
-#    - 'Advised by <a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank"><b>Dr. Barnabàs Pòczos</b></a>'
-#    - 'Using Monte Carlo Tree Search to answer natural language questions, using background knowledge represented as a graph.'
-#  - title: 'Machine Learning for understanding meaning representation in the brain'
-#    year: 2016 - 2017
-#    location: USA
-#    description:
-#    - 'Carnegie Mellon University, Pittsburgh, PA, USA'
-#    - 'Advised by <a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank"><b>Dr. Barnabàs Pòczos</b></a> and <a href="http://www.cs.cmu.edu/~tom/" target="_blank"><b>Prof. Tom M. Mitchell</b></a>'
-#    - 'Developed Machine Learning models that combine neural activity time series of different modalities. The goal was to use brain activity recordings, such as fMRI, EEG and MEG, to understand how the brain processes language. I focused on Deep Learning models, such as recurrent neural networks.'
 
 
 - title: Honors and Awards
